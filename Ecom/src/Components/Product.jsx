@@ -13,7 +13,7 @@ function Product({item}) {
        <h1 style={{fontFamily:'fantasy',fontSize:'20px'}}>{nt}</h1>
        <img src={image} style={{height:'60%',width:'70%'}}/> 
        <h3>{price}</h3>
-       <h6 style={{fontSize:'10px'}}>{dt}</h6>
+       <h6 style={{fontSize:'15px'}}>{dt}</h6>
         </div>
   )
 }
